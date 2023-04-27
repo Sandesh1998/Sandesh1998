@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://dev.to/sandesh1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sandesh1998" height="30" width="40" /></a>
 <a href="https://twitter.com/sandesh81167127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandesh81167127" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sandeshpoudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeshpoudel" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sandesh-poudel-b9a661239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeshpoudel" height="30" width="40" /></a>
 <a href="https://fb.com/sandeshpoudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sandeshpoudel" height="30" width="40" /></a>
 <a href="https://instagram.com/pdl_sandesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pdl_sandesh" height="30" width="40" /></a>
 </p>
