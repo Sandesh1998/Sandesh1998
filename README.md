@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sandesh Poudel</h1>
+<h1 align="center">Hello 👋, I'm Sandesh Poudel</h1>
 <h3 align="center">"Welcome to my GitHub profile! I'm a passionate software developer with experience in multiple programming languages, including Java, Python, and JavaScript"</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
