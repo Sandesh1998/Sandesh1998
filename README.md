@@ -33,5 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandesh1998&show_icons=true&locale=en" alt="sandesh1998" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandesh1998&" alt="sandesh1998" /></p>
-<p><a href="https://app.daily.dev/Sandesh1998"><img src="https://api.daily.dev/devcards/314051c77e8344b99a6487c7432d40ea.png?r=r1q" width="400" alt="sandesh's Dev Card"/></a></p>
+<a href="https://app.daily.dev/Sandesh1998"><img src="https://api.daily.dev/devcards/314051c77e8344b99a6487c7432d40ea.png?r=r1q" width="400" alt="sandesh's Dev Card"/></a>
 
