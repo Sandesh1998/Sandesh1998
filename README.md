@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/sandesh81167127" target="blank"><img src="https://img.shields.io/twitter/follow/sandesh81167127?logo=twitter&style=for-the-badge" alt="sandesh81167127" /></a> </p>
 
-- 🔭 I’m currently working on **Say Svāsthya**
+- 🔭 I’m currently working on **HRCONNECT**
 
 - 🌱 I’m currently learning **NodeJs**
 
