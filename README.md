@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **HRCONNECT**
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **NestJs**
 
 - 💬 Ask me about **React,Java**
 
