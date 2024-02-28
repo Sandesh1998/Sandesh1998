@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **NestJs**
 
-- 💬 Ask me about **React,Java**
+- 💬 Ask me about **React,Node**
 
 - 📫 How to reach me **sandesh.poudel1998@gmail.com**
 
